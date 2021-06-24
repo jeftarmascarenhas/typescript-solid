@@ -16,3 +16,14 @@ This project use Package by Feature Architecture
 **devDependencies**
 * @types/express
 * @types/nodemailer
+
+## Install dependencies and Run Project
+
+Install dependencies
+`yarn` or `npm i`
+
+Start project
+`yarn start` or `npm start`
+
+server run on `3333` port
+
